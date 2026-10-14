@@ -28,11 +28,10 @@ window.SV = {
     Jag hjälper organisationer att migrera till Microsoft 365 och att stärka befintliga miljöer,
     med fokus på enhetshantering, Autopilot, applikationsdistribution, säkerhetspolicyer
     och Conditional Access.`,
-  "about.background": `Det mesta av mitt arbete sker i Intune: jag bygger Autopilot-lösningar,
-    paketerar och distribuerar applikationer och säkrar enheter med efterlevnadsprinciper,
-    Windows Hello for Business och AppLocker. Jag tar ofta organisationer från lokalt
-    Active Directory och SCCM till ren molnhantering, och min bakgrund inom Windows Server
-    gör att jag kan planera de flyttarna utan överraskningar.`,
+  "about.background": `Med certifieringarna MD-102 och MS-102 bygger jag Intune-miljöer som håller
+    enheterna säkra utan att vara i vägen för användarna. Jag trivs lika bra med att leda
+    projekt som med att göra det tekniska arbetet själv, och jag är särskilt stark på att flytta
+    organisationer från lokalt Active Directory och SCCM till modern, molnbaserad hantering.`,
 
   "exp.title": "Erfarenhet",
   "exp.present": "Sedan 2023",
