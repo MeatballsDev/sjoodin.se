@@ -28,11 +28,11 @@ window.SV = {
     Jag hjälper organisationer att migrera till Microsoft 365 och att stärka befintliga miljöer,
     med fokus på enhetshantering, Autopilot, applikationsdistribution, säkerhetspolicyer
     och Conditional Access.`,
-  "about.background": `Innan jag blev konsult arbetade jag med servicedesk, teknisk support och
-    serverdrift, vilket gav mig en gedigen grund inom Windows Server, Active Directory,
-    Group Policy och nätverk. Sedan dess har jag lett flera migreringsprojekt, bland annat
-    migreringar från filservrar till OneDrive och SharePoint Online och kompletta
-    övergångar från Google Workspace till Microsoft 365.`,
+  "about.background": `Det mesta av mitt arbete sker i Intune: jag bygger Autopilot-lösningar,
+    paketerar och distribuerar applikationer och säkrar enheter med efterlevnadsprinciper,
+    Windows Hello for Business och AppLocker. Jag tar ofta organisationer från lokalt
+    Active Directory och SCCM till ren molnhantering, och min bakgrund inom Windows Server
+    gör att jag kan planera de flyttarna utan överraskningar.`,
 
   "exp.title": "Erfarenhet",
   "exp.present": "Sedan 2023",
