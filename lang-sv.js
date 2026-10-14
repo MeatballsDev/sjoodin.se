@@ -66,6 +66,12 @@ window.SV = {
 
   "skills.title": "Kompetenser",
   "skills.packaging": "Apppaketering",
+  "skills.compliance": "Efterlevnadsprinciper",
+  "skills.config": "Konfigurationsprofiler",
+  "skills.baselines": "Säkerhetsbaslinjer",
+  "skills.mam": "Appskyddsprinciper",
+  "skills.mobile": "Hantering av iOS och Android",
+  "skills.comanagement": "Samhantering",
   "skills.identity": "Identitet och säkerhet",
   "skills.tenant": "Tenant-migreringar",
   "skills.infra": "Infrastruktur",
