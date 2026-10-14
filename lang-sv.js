@@ -21,7 +21,6 @@ window.SV = {
   "facts.based": "Bor i",
   "facts.it": "Inom IT sedan",
   "facts.certs": "Certifierad",
-  "hero.sub": "Jag hjälper organisationer att migrera till Microsoft 365 och bygga säkra, välhanterade klientmiljöer med Intune och Entra ID.",
 
   "about.title": "Om mig",
   "about.lead": `Microsoft 365-konsult specialiserad på <strong>Intune</strong> och <strong>Entra ID</strong>.
